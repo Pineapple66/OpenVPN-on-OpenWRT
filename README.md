@@ -210,4 +210,8 @@ config forwarding
     option dest 'lan'
     option src 'openvpn'
 ```
-**7. ALL DONE, enjoy! **
+**7. ALL DONE, enjoy**
+
+To do: 
+Monitoring OpenVPN connections, otherthan checking on system logs
+
