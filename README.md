@@ -2,10 +2,16 @@
 
 This Guide is showing you how to install openvpn on openwrt as a openVPN server
 
-Mostly is based on here http://blog.sina.com.cn/s/blog_723431cd0102yimb.html
+Mostly is based on here
+https://openwrt.org/docs/guide-user/services/tor/create-tor-openvpn
+AND
+http://blog.sina.com.cn/s/blog_723431cd0102yimb.html
+
+If you are justing setting up a basic router, use the script install, Nice and Easy. 
+If you are like me who has bunch of random stuff already added to the router, use the manual install
+
 
 This demo is based on this version 
-
 ```
 OpenVPN 2.4.5 powerpc-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD]
 library versions: OpenSSL 1.0.2t  10 Sep 2019, LZO 2.10
